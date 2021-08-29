@@ -3,11 +3,20 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: Title can't be blank
+    Description can't be blank
+    Image url can't be blank
+    Price must be greater than or equal to 0.01
+  price: 49.50
+  image_url: ruby.jpg
