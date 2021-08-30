@@ -14,5 +14,5 @@ The next step in the evolution of user interfaces is here. Chatbots let your use
 own natural language. Use free and open source tools along
 with Ruby to build creative, useful, and unexpected interactions for users. Take advantage of the Lita framework’s step-by-step implementation strategy to simplify bot development and testing. From novices to experts, chatbots are an area in which everyone can participate. Exercise your creativity by creating chatbot skills for communicating, information, and fun.
 </p>},
-image_url: 'dpchat.jpg',
+image_url: 'https://res.cloudinary.com/dqzpz4w3l/image/upload/v1629189831/pexels-ella-olsson-1640777_xh7lti.jpg',
 price: 20.00)
